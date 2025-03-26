@@ -1,0 +1,47 @@
+[
+  {
+    "id": 503504,
+    "name": "Cartagena",
+    "region": "Bolivar Department",
+    "country": "Colombia",
+    "lat": 10.4,
+    "lon": -75.51,
+    "url": "cartagena-bolivar-department-colombia"
+  },
+  {
+    "id": 701680,
+    "name": "Cartagena",
+    "region": "Murcia",
+    "country": "Spain",
+    "lat": 37.6,
+    "lon": -0.98,
+    "url": "cartagena-murcia-spain"
+  },
+  {
+    "id": 503518,
+    "name": "Cartago",
+    "region": "Valle del Cauca",
+    "country": "Colombia",
+    "lat": 4.75,
+    "lon": -75.91,
+    "url": "cartago-valle-del-cauca-colombia"
+  },
+  {
+    "id": 701684,
+    "name": "Cartaya",
+    "region": "Andalucia",
+    "country": "Spain",
+    "lat": 37.28,
+    "lon": -7.15,
+    "url": "cartaya-andalucia-spain"
+  },
+  {
+    "id": 1999547,
+    "name": "Cartaxo",
+    "region": "Santarem",
+    "country": "Portugal",
+    "lat": 39.15,
+    "lon": -8.78,
+    "url": "cartaxo-santarem-portugal"
+  }
+]
